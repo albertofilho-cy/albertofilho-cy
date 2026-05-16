@@ -1,5 +1,9 @@
 # Olá, eu sou o Alberto Filho! 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=0f172a&height=150&section=header&text=Cybersecurity%20%26%20SecOps&fontSize=30&textColor=38bdf8" />
+</p>
+
 ### 🔒 Cybersecurity & SecOps Engineer | Blue Team & Attack Surface Management (ASM)
 
 Profissional de Cibersegurança especializado em **Segurança Defensiva (Blue Team)** e proteção de perímetros corporativos. Utilizo uma sólida bagagem híbrida em Engenharia de Redes, Linux e automação em Nuvem (DevOps) para arquitetar perímetros resilientes, implementar monitoramento contínuo (SIEM/Observabilidade) e mitigar riscos de segurança através do gerenciamento ativo da superfície de ataque. 
