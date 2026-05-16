@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=38bdf8&background=0f172a00&center=true&vCenter=true&width=600&height=100&lines=Olá,+eu+sou+o+Alberto+Filho!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38bdf8&background=0f172a00&center=true&vCenter=true&width=600&height=100&lines=Olá,+eu+sou+o+Alberto+Filho!" />
 </p>
 
 ### 🔒 Cybersecurity & SecOps Engineer | Blue Team & Attack Surface Management (ASM)
@@ -10,7 +10,7 @@ Focado em antecipar ameaças, auditar vulnerabilidades e garantir a conformidade
 
 ---
 
-### 🧰 Ecossistema Técnico & Ferramentas
+### 🛡️ Ecossistema Técnico & Ferramentas
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0f172a?style=for-the-badge&logo=kali-linux&logoColor=557C94) ![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624) ![Nginx](https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639) ![Aruba](https://img.shields.io/badge/Aruba-0f172a?style=for-the-badge&logo=aruba-networks&logoColor=FF671B) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0f172a?style=for-the-badge&logo=wi-fi&logoColor=white)
 
@@ -26,11 +26,12 @@ Focado em antecipar ameaças, auditar vulnerabilidades e garantir a conformidade
 
 ---
 
-### 📊 Estatísticas de Contribuição
+### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=albertofilho-sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofilho-sec&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=albertofilho-sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofilho-sec&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" />
 </p>
 
 ---
